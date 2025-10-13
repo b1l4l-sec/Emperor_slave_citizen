@@ -3,7 +3,7 @@
 ## Concept
 
 This game is inspired by the "Emperor and Slave" card game seen in *Kaiji*.  
-Two players face off, each with a different set of cards:
+Two players face off, each with a different set of cards Link: https://b212m.github.io/Emperor-slave/
 
 - **Player 1** has:
   - 1 Emperor 🏛️
